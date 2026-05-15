@@ -1,3 +1,3 @@
 # practice-repo
 
-This project is for Git practice.
+changed readme 
